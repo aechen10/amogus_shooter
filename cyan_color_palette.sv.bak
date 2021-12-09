@@ -1,0 +1,8 @@
+module cyan_color_palette (input logic [2:0] select_input,	
+									
+                           output logic [11:0] cyan_color_output,
+);
+begin
+	unique case()
+
+
